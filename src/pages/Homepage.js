@@ -5,6 +5,7 @@ const Homepage = () => {
   return (
     <div>
         <Banner />
+        
     </div>
   )
 }
