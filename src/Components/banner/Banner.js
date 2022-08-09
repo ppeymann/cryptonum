@@ -2,7 +2,6 @@ import { makeStyles } from '@mui/styles'
 import Container from '@mui/material/Container'
 import Typography from '@mui/material/Typography'
 import React from 'react'
-import { height } from '@mui/system'
 import Carousel from './Carousel'
 // import "./banner.css"
 const useStyle = makeStyles(()=>({

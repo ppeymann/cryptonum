@@ -31,7 +31,6 @@ const Carousel = () => {
         setData(trend.data)
         
     }
-    console.log(data)
     useEffect(()=>{
         fetchTrendingCoins()
     } , [currency])
